@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "appoctv3398415d": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

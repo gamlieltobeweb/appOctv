@@ -1,0 +1,17 @@
+{
+  "projectName": "appOctv",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react-native",
+    "config": {
+      "SourceDir": ".",
+      "DistributionDir": "/APPRN/app.js",
+      "BuildCommand": "expo start",
+      "StartCommand": "run-script start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}

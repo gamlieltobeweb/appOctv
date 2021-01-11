@@ -1,0 +1,14 @@
+running a task every minute
+ndata 9
+====================================
+[
+  {
+    id: '214',
+    lastname: '32967',
+    startPlaylist: '2020-09-07 21:00:00',
+    endPlaylist: '2022-09-07 21:00:00',
+    namePlaylist: '00_intro2018.mp4',
+    md5: 'aa5afb2a5180c147cfda1daf45452a0d'
+  }
+]
+====================================

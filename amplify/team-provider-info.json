@@ -1,0 +1,20 @@
+{
+  "app": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-appoctv-app-125531-authRole",
+      "UnauthRoleArn": "arn:aws:iam::508755945293:role/amplify-appoctv-app-125531-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::508755945293:role/amplify-appoctv-app-125531-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-appoctv-app-125531-deployment",
+      "UnauthRoleName": "amplify-appoctv-app-125531-unauthRole",
+      "StackName": "amplify-appoctv-app-125531",
+      "StackId": "arn:aws:cloudformation:eu-west-1:508755945293:stack/amplify-appoctv-app-125531/8e503550-53fb-11eb-ae0c-068b629f0eb9",
+      "AmplifyAppId": "d2zq7yf5zy5jcm"
+    },
+    "categories": {
+      "auth": {
+        "appoctv3398415d": {}
+      }
+    }
+  }
+}
