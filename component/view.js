@@ -97,8 +97,8 @@ export default function ViewVideo() {
 
       <Video
 
-        // source={require('../media/giorgio-armani-2019-vertical.mp4')}
-        source={{ uri: videourl }}
+        source={require('../media/giorgio-armani-2019-vertical.mp4')}
+        // source={{ uri: videourl }}
         rate={1}
         volume={2}
         isMuted={false}
